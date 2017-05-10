@@ -11,6 +11,8 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 ## Update Author Attributes
 
+Adding some more text to test git configs.
+
 In `_config.yml` remember to specify your own data:
     
     title : My Blog =)
